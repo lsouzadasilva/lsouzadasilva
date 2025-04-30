@@ -153,7 +153,7 @@ alt="Exploding Head" width="40" height="40" />   </h2>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lsouzadasilva&theme=material-palenight&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h2 align="center" style="color: #ba6771;">
   Frase que me define 
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes"width="40" height="40" />
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" />
 </h2>
 <blockquote style="text-align: center; font-style: italic;">
   “Automatize o que for possível. Com inteligência, sempre.” 
