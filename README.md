@@ -29,7 +29,7 @@
 
 </div>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é **Leandro Souza** e sou especialista em **Dados** e **IA Generativa**. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Medium-Dark%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é **Leandro Souza** e sou especialista em **Dados** e **IA Generativa**. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo é continuar aprendendo tecnologias e desenvolvendo novas aplicações.<br />
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" /> Minha principal stack inclui **Python**, **SQL**, **RAG**, **Machine Learning**, **Power BI** e **Streamlit**.<br />
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Boy%20Medium%20Skin%20Tone.png" alt="Boy Medium Skin Tone" width="25" height="25" /> Sempre tento ser uma pessoa educada e respeitosa, adoro interagir com novas pessoas e compartilhar ideias.<br />
