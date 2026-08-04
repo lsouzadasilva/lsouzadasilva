@@ -10,7 +10,8 @@
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
 <div align="center" >
   <a href="https://github.com/lsouzadasilva">
-    <img   height="100%" src="https://github-readme-stats.vercel.app/api?username=lsouzadasilva&show_icons=true&theme=radical&include_all_commits=false&count_private=true&border_radius=10"/>
+    <!-- <img   height="100%" src="https://github-readme-stats.vercel.app/api?username=lsouzadasilva&show_icons=true&theme=radical&include_all_commits=false&count_private=true&border_radius=10"/> -->
+    <img   height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lsouzadasilva&theme=github-dark"/>
   </a>
   <a href="https://github.com/lsouzadasilva"></a>
   <img   height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsouzadasilva&layout=compact&langs_count=7&theme=radical&include_all_commits=false&border_radius=10&hide=javascript,html,css"/>
